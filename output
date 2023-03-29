@@ -1,0 +1,28 @@
+Amount paid for each sevice:
+LUNCH:2500
+MOVIE TICKET:1000
+TEA/COFFEE:750
+-------------------------------
+Amount paid by each indvidual
+{balaji=2500, anand=1000, chaitanya=750, divya=0}
+-------------------------------
+Share of an each individual is:
+{balaji=1125, anand=1125, chaitanya=1125, divya=875}
+----------------------------------
+Balance need to be paid by individual:
+{balaji=0, anand=125, chaitanya=375, divya=875}
+----------------------------------
+Amount to pay or receive:
+
+balaji needs to receive 1500 from anand
+balaji needs to receive 1750 from chaitanya
+balaji needs to receive 2500 from divya
+anand needs to pay 1500 to balaji
+anand needs to receive 250 from chaitanya
+anand needs to receive 1000 from divya
+chaitanya needs to pay 1750 to balaji
+chaitanya needs to pay 250 to anand
+chaitanya needs to receive 750 from divya
+divya needs to pay 2500 to balaji
+divya needs to pay 1000 to anand
+divya needs to pay 750 to chaitanya
